@@ -1,19 +1,21 @@
-# Hi there 👋 I`m Nur Betül
+# Hi there 👋 I'm Nur Betül
 
 ### AWS Solutions Architect | Azure | DevOps Engineer | Cloud ☁️
 
-- 🚀 AWS, Azure ve DevOps alanlarında çalışıyorum.
-- 💻 AWS Solutions Architect & DevOps Engineer
-- 🌱 Şu an **AWS EC2 Snapshots** ve **DynamoDB** üzerinde çalışıyorum.
+- 🚀 **I work in the fields of AWS, Azure, and DevOps.**
+- 💻 **AWS Solutions Architect & DevOps Engineer**
+- 🌱 **I am currently focusing on Cloud Infrastructure Automation and Scalable Architectures.**
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🌩️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AZURE](https://img.shields.io/badge/AZURE-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![KUBERNETES](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![TERRAFORM](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![ANSIBLE](https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![DEVOPS](https://img.shields.io/badge/DEVOPS-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)  
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
